@@ -13,6 +13,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Wolfyz16/Phoenix-Hub/
 -- Pet Simulator X
 elseif game.PlaceId == 6284583030 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Wolfyz16/Phoenix-Hub/main/Pet%20Simulator%20X.lua"))()
+-- Destruction Simulator
+elseif game.PlaceId == 2248408710 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Wolfyz16/Phoenix-Hub/main/Destruction%20Simulator.lua"))()
 -- Universal
 else
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Wolfyz16/Phoenix-Hub/main/Universal.lua"))()
