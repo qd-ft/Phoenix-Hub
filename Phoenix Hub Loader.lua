@@ -22,6 +22,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Wolfyz16/Phoenix-Hub/
 -- Tapping Simulator
 elseif game.PlaceId == 9498006165 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Wolfyz16/Phoenix-Hub/main/Tapping%20Simulator.lua"))()
+ -- War Tycoon
+elseif game.PlaceId == 4639625707 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Wolfyz16/Phoenix-Hub/main/War%20Tycoon.lua"))()
 -- Universal
 else
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Wolfyz16/Phoenix-Hub/main/Universal.lua"))()
