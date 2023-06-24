@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("This Is Not Working Yet. Please Check Back Later. I Love You <3 From Wolfyz")
+game.Players.LocalPlayer:Kick("Right Now We Hvae Not Finished This Game. Sorry For The Inconvenience. From Phoenix Hub Owner qdft")
